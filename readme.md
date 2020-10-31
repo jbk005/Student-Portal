@@ -60,7 +60,7 @@ Here is a simple gif on how to install it if you are still confused.
 ### Wikipedia
 Search for anything in the search bar, and depending on the existence of the page in Wikipedia, you will get a quick summary on that topic.
 
-![How to Wikipedia](place holder)
+![How to Wikipedia](https://res.cloudinary.com/muhimen/image/upload/v1604174574/sp_how_to_wiki.gif)
 
 ### To-do
 Keep track of what you have to do and what you have done so far with this simple to do list. Not the best out in the market, but it can surely get the work done.
