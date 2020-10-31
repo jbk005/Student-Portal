@@ -1,4 +1,8 @@
-<div align="center"> <img src="http://res.cloudinary.com/muhimen/image/upload/v1604122377/student_portal_logo.png" alt="logo"> </div>
+<div align="center"> <img src="http://res.cloudinary.com/muhimen/image/upload/v1604122377/student_portal_logo.png" alt="logo"> 
+<!-- [![badge][https://img.shields.io/badge/CodeJam-Timathon-orange]] -->
+<!--  [![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname) -->
+</div>
+[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
 
 # Student Portal
 
