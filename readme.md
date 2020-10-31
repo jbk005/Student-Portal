@@ -2,7 +2,7 @@
 <!-- [![badge][https://img.shields.io/badge/CodeJam-Timathon-orange]] -->
 <!--  [![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname) -->
 </div>
-[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
+![Generic badge](https://img.shields.io/badge/CodeJam-Timathon-orange.svg)
 
 # Student Portal
 
