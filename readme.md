@@ -88,3 +88,6 @@ YouTube's homepage recommendations can often be a bit distracting when you are t
 ![meme](https://en.meming.world/images/en/thumb/4/4a/Modern_Problems_Require_Modern_Solutions.jpg/300px-Modern_Problems_Require_Modern_Solutions.jpg)
 
 <button name="button" onclick="http://www.google.com">Click me</button>
+
+[Click me](http://www.google.com){background-color: #123343}
+
