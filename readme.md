@@ -89,5 +89,7 @@ YouTube's homepage recommendations can often be a bit distracting when you are t
 
 <button name="button" onclick="http://www.google.com">Click me</button>
 
-[Click me](http://www.google.com){background-color: #123343}
+[![button](https://www.flaticon.com/svg/static/icons/svg/3325/3325082.svg)](https://mattermost.com)
+
+<img src="https://www.flaticon.com/svg/static/icons/svg/3325/3325082.svg" height=100 width=100 alt="red" style="align:center">
 
