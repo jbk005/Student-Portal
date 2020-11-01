@@ -103,7 +103,9 @@ Oh, yeah! Forgot to mention, our app is full of easter eggs. Try finding you som
 
 I am pretty sure that's not what you expected. 😆
 
-Keep finding the easter eggs. <span style="color:red">If you are lucky, you can even find a discord nitro gift card.</span> 😱
+Keep finding the easter eggs. 
+
+<span style="color:red"> If you are lucky, you can even find a discord nitro gift card. </span> 😱
 
 
 Huh? 🤨 Wot dis? Click at your own risk!
