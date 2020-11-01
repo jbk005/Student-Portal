@@ -91,5 +91,5 @@ YouTube's homepage recommendations can often be a bit distracting when you are t
 
 [![button](https://www.flaticon.com/svg/static/icons/svg/3325/3325082.svg)](https://mattermost.com)
 
-<center><img src="https://www.flaticon.com/svg/static/icons/svg/3325/3325082.svg" height=100 width=100 alt="red" style="align:center"></center>
+<center> <img src="https://www.flaticon.com/svg/static/icons/svg/3325/3325082.svg" height=100 width=100 alt="red" style="align:center"> </center>
 
