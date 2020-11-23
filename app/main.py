@@ -49,7 +49,7 @@ resource_add_path(resource_path(os.path.join('screens', 'about')))
 
 class StudentPortal(MDApp):
 
-    title = "Student Portal"
+    title = "Student Portall"
     icon = 'icon.ico'
     color_theme = 'dark'
     bg_color = ListProperty([29 / 255, 29 / 255, 29 / 255, 1])
